@@ -12,6 +12,10 @@
   version "4.0.32"
   resolved "https://registry.yarnpkg.com/@types/handlebars/-/handlebars-4.0.32.tgz#637e8d945a9354aab47df7125005490fe9f8e592"
 
+"@types/highlight.js@^9.1.8":
+  version "9.1.9"
+  resolved "https://registry.yarnpkg.com/@types/highlight.js/-/highlight.js-9.1.9.tgz#ed6336955eaf233b75eb7923b9b1f373d045ef01"
+
 "@types/lodash@^4.14.37":
   version "4.14.64"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.64.tgz#979cf3a3d4a368670840bf9b3e448dc33ffe84ee"
@@ -2586,7 +2590,7 @@ pseudomap@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/pseudomap/-/pseudomap-1.0.2.tgz#f052a28da70e618917ef0a8ac34c1ae5a68286b3"
 
-ptz-assert@^1.6.3:
+ptz-assert@^1.6.8:
   version "1.6.8"
   resolved "https://registry.yarnpkg.com/ptz-assert/-/ptz-assert-1.6.8.tgz#7c19e98fc752b94dc2f98b7c33328d788e31ca96"
   dependencies:
