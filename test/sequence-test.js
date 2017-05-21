@@ -91,8 +91,7 @@ describe('Method args sequence', function () {
     }, function (err, client) {
       assert.ok(client);
       var sequencedMethodRequest = client._setSequenceArgs(argsScheme, args);
-      assert.ok(sequencedMethodRequest.ListaDeClientes === args.ListaDeClientes);
-
+      assert.ok(JSON.stringify(sequencedMethodRequest.ListaDeClientes) === JSON.stringify(args.ListaDeClientes))
       done();
     });
   });
