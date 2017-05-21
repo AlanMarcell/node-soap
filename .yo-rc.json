@@ -1,0 +1,9 @@
+{
+  "generator-ptz": {
+    "promptValues": {
+      "appname": "soap-ts",
+      "githubAuthor": "alanmarcell",
+      "codecovToken": "6af0b352-13bd-4bd3-8748-0eadce3651ce"
+    }
+  }
+}

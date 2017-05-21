@@ -806,12 +806,12 @@ describe('myService', function() {
    - [Heinz Romirer](https://github.com/herom)
  * [All Contributors](https://github.com/vpulim/node-soap/graphs/contributors)
 
-[downloads-image]: http://img.shields.io/npm/dm/soap.svg
-[npm-url]: https://npmjs.org/package/soap
-[npm-image]: http://img.shields.io/npm/v/soap.svg
+[downloads-image]: http://img.shields.io/npm/dm/soap-ts.svg
+[npm-url]: https://www.npmjs.com/package/soap-ts
+[npm-image]: http://img.shields.io/npm/v/soap-ts.svg
 
-[travis-url]: https://travis-ci.org/vpulim/node-soap
-[travis-image]: http://img.shields.io/travis/vpulim/node-soap.svg
+[travis-url]: https://img.shields.io/travis/AlanMarcell/node-soap-ts
+[travis-image]:https://img.shields.io/travis/AlanMarcell/node-soap-ts.svg
 
 [gitter-url]: https://gitter.im/vpulim/node-soap
 [gitter-image]: https://badges.gitter.im/vpulim/node-soap.png
