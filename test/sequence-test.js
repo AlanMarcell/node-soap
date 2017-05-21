@@ -1,6 +1,4 @@
 'use strict';
-var logFile = require('ptz-log-file').default;
-var log = logFile({});
 
 var fs = require('fs'),
   soap = require('..'),
@@ -53,7 +51,6 @@ var args = {
 };
 
 
-
 describe('Method args sequence', function () {
 
   it('check if method required sequence args', function (done) {
@@ -99,5 +96,4 @@ describe('Method args sequence', function () {
       done();
     });
   });
-
 });
